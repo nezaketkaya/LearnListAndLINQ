@@ -1,0 +1,7 @@
+C:\Users\ali\source\repos\LearnLINQ\LearnLINQ\obj\Debug\LearnLINQ.csproj.AssemblyReference.cache
+C:\Users\ali\source\repos\LearnLINQ\LearnLINQ\obj\Debug\LearnLINQ.csproj.CoreCompileInputs.cache
+C:\Users\ali\source\repos\LearnLINQ\LearnLINQ\bin\Debug\LearnLINQ.exe.config
+C:\Users\ali\source\repos\LearnLINQ\LearnLINQ\bin\Debug\LearnLINQ.exe
+C:\Users\ali\source\repos\LearnLINQ\LearnLINQ\bin\Debug\LearnLINQ.pdb
+C:\Users\ali\source\repos\LearnLINQ\LearnLINQ\obj\Debug\LearnLINQ.exe
+C:\Users\ali\source\repos\LearnLINQ\LearnLINQ\obj\Debug\LearnLINQ.pdb
